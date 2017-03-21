@@ -2,7 +2,7 @@
 #' R Interface for Program E-SURGE
 #'
 #' Provide an R interface for running some of the models available in
-# Program E-SURGE (\url{http://www.cefe.cnrs.fr/fr/actus/livres/34-french/recherche/bc/bbp/264-logiciels}),
+#  Program E-SURGE (\url{http://www.cefe.cnrs.fr/fr/actus/livres/34-french/recherche/bc/bbp/264-logiciels}),
 #' Program E-SURGE (\url{https://mycore.core-cloud.net/public.php?service=files&t=7aa2ac97d3e067698bb3230e4a7b0f8b}),
 #' plus some additional helpful routines.  This package includes a Windows
 #' scripting tool, written in AutoIt3, to automate data entry and point/clicking.
