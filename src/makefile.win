@@ -1,0 +1,5 @@
+../inst/executables/win64/esrg_ai.exe: esrg_ai.au3
+	c:/progra~2/AutoIt3/aut2exe/aut2exe.exe  /in $< /out $@ /nopack /comp 2 /Console
+	
+clean:
+	rm ../inst/executables/win64/esrg_ai.exe

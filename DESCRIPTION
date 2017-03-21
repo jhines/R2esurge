@@ -1,0 +1,13 @@
+Package: R2Esurge
+Type: Package
+Title: R-interface to Program E-SURGE
+Version: 0.1.2
+Author: Jim Hines
+Maintainer: Jim Hines <jhines@usgs.gov>
+Description: Allows E-SURGE to be called from R.  Good for running
+    E-SURGE in batch mode, or in loops.  Also useful for documentation
+    of analysis.
+License: GPL2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
